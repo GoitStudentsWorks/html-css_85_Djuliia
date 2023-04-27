@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-group-6/",
+    "build": "vite build --base=/html-css_85_Djuliia/",
     "preview": "vite preview"
   },
   "devDependencies": {
